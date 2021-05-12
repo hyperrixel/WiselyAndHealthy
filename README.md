@@ -1,5 +1,11 @@
 ## What is WiselyAndHealthy ❓
 
+[Video presentation - Grand Finale](https://www.youtube.com/watch?v=qnGAurDU1tQ)
+
+Earlier submitted videos:
+- [Version 2.0](https://www.youtube.com/watch?v=ovZABRuBJwU)
+- [Version 1.0](https://www.youtube.com/watch?v=uiDsihBEYow)
+
 **WiselyAndHealthy** is a project that is made for a hackathon to provide an efficient technology for distribution and awareness of sanitary pads.
 
 It includes two main components.
